@@ -1,2 +1,2 @@
 # jerosantamariai
-In this minute, im a pre-student of full stack
+Full Stack developer fluent in MERN stack and Python
